@@ -1,1 +1,2 @@
 fichero repo2
+cosas nuvas repo2
